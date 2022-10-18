@@ -1,3 +1,5 @@
+// Reference: https://sebhastian.com/javascript-console-input/
+
 // #1 Array for word list storage
 // #2 random picker / number gen
 // #3 input reader to take guesses
